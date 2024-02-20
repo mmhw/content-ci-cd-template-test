@@ -1,0 +1,11 @@
+[file:multiply.yml]
+ignore=ST107,BA124
+
+[file:Author_image.png]
+ignore=IM108
+
+[file:pack_metadata.json]
+ignore=PA125,PA113
+
+
+
