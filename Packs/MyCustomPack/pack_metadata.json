@@ -1,10 +1,10 @@
 {
-    "name": "My Custom",
-    "description": "My custom items for xsoar",
-    "support": "xsoar",
+    "name": "MyCustomPack",
+    "description": "Pack of my custom items",
+    "support": "developer",
     "currentVersion": "1.0.0",
-    "author": "Cortex XSOAR",
-    "url": "https://www.paloaltonetworks.com/cortex",
+    "author": "",
+    "url": "",
     "email": "",
     "categories": [
         "Analytics & SIEM"
@@ -15,5 +15,6 @@
     "marketplaces": [
         "xsoar",
         "marketplacev2"
-    ]
+    ],
+    "githubUser": []
 }
